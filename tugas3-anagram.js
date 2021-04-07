@@ -8,4 +8,4 @@ var isAnagram = function(test, original) {
         return false
       }
   };
-  console.log(isAnagram)
+  console.log(isAnagram ("Twoo", "WooT"))
